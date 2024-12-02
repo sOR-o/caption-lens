@@ -1,0 +1,6 @@
+transformers
+bitsandbytes 
+accelerate
+torch
+requests
+PIL
