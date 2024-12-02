@@ -1,0 +1,2 @@
+dataset: https://huggingface.co/datasets/liuhaotian/LLaVA-Instruct-150K
+models: https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md
