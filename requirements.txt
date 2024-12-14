@@ -3,4 +3,12 @@ bitsandbytes
 accelerate
 torch
 requests
-PIL
+tensorflow
+tensorflow_datasets
+tensorflow_text
+matplotlib
+numpy
+tqdm
+Pillow
+nltk
+einops
