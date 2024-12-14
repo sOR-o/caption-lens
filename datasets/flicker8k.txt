@@ -1,1 +1,5 @@
 https://www.kaggle.com/datasets/adityajn105/flickr8k
+
+direct .zip
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
